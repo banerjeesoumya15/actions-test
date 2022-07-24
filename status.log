@@ -102,3 +102,6 @@
 2022-07-24 10:52:18,667 - __main__ - INFO - Token value: 1234
 2022-07-24 10:52:19,114 - __main__ - INFO - Weather in Sonamukhi: moderate rain
 2022-07-24 10:52:19,114 - __main__ - INFO - Temperature in Sonamukhi: 31.15
+2022-07-24 10:59:44,018 - __main__ - INFO - Token value: 1234
+2022-07-24 10:59:44,179 - __main__ - INFO - Weather in Sonamukhi: light rain
+2022-07-24 10:59:44,180 - __main__ - INFO - Temperature in Sonamukhi: 31.15
