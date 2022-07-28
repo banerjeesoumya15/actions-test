@@ -596,3 +596,6 @@
 2022-07-28 03:10:49,422 - __main__ - INFO - Token value: 1234
 2022-07-28 03:10:50,262 - __main__ - INFO - Weather in Sonamukhi: overcast clouds
 2022-07-28 03:10:50,263 - __main__ - INFO - Temperature in Sonamukhi: 30.15
+2022-07-28 04:36:00,186 - __main__ - INFO - Token value: 1234
+2022-07-28 04:36:00,881 - __main__ - INFO - Weather in Sonamukhi: overcast clouds
+2022-07-28 04:36:00,881 - __main__ - INFO - Temperature in Sonamukhi: 33.15
